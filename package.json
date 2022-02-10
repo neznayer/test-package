@@ -1,6 +1,6 @@
 {
   "name": "@neznayer/test-package",
-  "version": "1.0.0",
+  "version": "0.0.1-beta",
   "description": "testing git packages",
   "main": "script.js",
   "type": "module",
