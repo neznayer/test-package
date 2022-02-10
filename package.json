@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "testing git packages",
   "main": "script.js",
+  "type": "module",
   "scripts": {
     "test": "exit 0"
   },

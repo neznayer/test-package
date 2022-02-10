@@ -1,1 +1,3 @@
-alert("Hello I am a script");
+export default function (text) {
+  console.log(text);
+}
