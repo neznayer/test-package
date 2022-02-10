@@ -1,0 +1,22 @@
+{
+  "name": "@neznayer/test-package",
+  "version": "1.0.0",
+  "description": "testing git packages",
+  "main": "script.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neznayer/test-package.git"
+  },
+  "keywords": [
+    "git-packages"
+  ],
+  "author": "Zhuravlev Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neznayer/test-package/issues"
+  },
+  "homepage": "https://github.com/neznayer/test-package#readme"
+}
